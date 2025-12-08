@@ -43,5 +43,7 @@ https://www.waveshare.com/wiki/ESP32-S3-Matrix
 ---
 
 <img width="866" height="643" alt="turnie_garber" src="https://github.com/user-attachments/assets/604c9940-4898-4f4c-a1fe-e727934b43c3" />
-![54D46F6C-F7EF-4FB1-B01D-59AC6F2B1232](https://github.com/user-attachments/assets/e86517ff-62cd-4ff4-8278-31cf87f81c14)
+
+![54D46F6C-F7EF-4FB1-B01D-59AC6F2B1232](https://github.com/user-attachments/assets/5b256854-7a68-403a-b8f5-ae8df6f9acb7)
+![54D46F6C-F7EF-4FB1-B01D-59AC6F2B1232](https://github.com/user-attachments/assets/273cb75d-7c23-42e1-9e73-a3bb26c506b3)
 
