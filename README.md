@@ -2,7 +2,8 @@
 turnie デバイス基板のガーバーファイルおよび主要部品リスト。
 turnieのgarberデータです。このガーバーデータを入稿することでturnieを組み立てることができます。
 既存部品TP4056を購入し、ユニバーサル基盤で組み立てることも可能です。
-Waveshare **ESP32-S3-Matrix** と組み合わせて使用します。
+
+-Waveshare **ESP32-S3-Matrix** と組み合わせて使用します。
 https://www.waveshare.com/wiki/ESP32-S3-Matrix
 
 ---
@@ -41,16 +42,6 @@ https://www.waveshare.com/wiki/ESP32-S3-Matrix
 
 ---
 
-## 使用デバイス
+<img width="866" height="643" alt="turnie_garber" src="https://github.com/user-attachments/assets/604c9940-4898-4f4c-a1fe-e727934b43c3" />
+![54D46F6C-F7EF-4FB1-B01D-59AC6F2B1232](https://github.com/user-attachments/assets/e86517ff-62cd-4ff4-8278-31cf87f81c14)
 
-- **Waveshare ESP32-S3-Matrix**  
-  https://www.waveshare.com/wiki/ESP32-S3-Matrix
-
----
-
-
-![Turnie Garber](images/turnie_garber.png)
-
-
-![Photo](images/54D46F6C-F7EF-4FB1-B01D-59AC6F2B1232.jpg)
-![Uploading 54D46F6C-F7EF-4FB1-B01D-59AC6F2B1232.jpg…]()
